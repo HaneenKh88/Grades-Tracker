@@ -1,0 +1,37 @@
+body
+{
+    background-image: url('../background.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+header
+{
+  padding: 30px;
+  text-align: center;
+  background: #1e2020;
+  color: white;
+  font-size: 30px;
+}
+
+h3
+{
+    color: white;
+}
+
+form
+{
+    background-color: rgba(100, 60, 133, 0.753);
+    color: white;
+    text-align: center;
+    background-size: auto;
+    width: 30%;
+    height: 200px;
+}
+
+select {
+    width: 150px;
+    margin: 10px;
+}
+
